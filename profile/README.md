@@ -2,7 +2,7 @@
 
 ### `// the bharath project`
 
-**A small studio shipping internet things from Mumbai.**
+**A solo-founders small studio shipping internet things.**
 
 Tools for creators. Trading data labs. Mobile games.
 Built quietly. Shipped fast. Priced for the rupee.
