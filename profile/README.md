@@ -2,10 +2,10 @@
 
 ### `// the bharath project`
 
-**A solo-founders small studio shipping internet things.**
+**A solo-founder's small studio shipping internet things.**
 
-Tools for creators. Trading data labs. Mobile games.
-Built quietly. Shipped fast. Priced for the rupee.
+Sharp tools for specific problems. Different niches, same shape:
+input → decode → output you can use.
 
 [`sypher.in`](https://sypher.in) &nbsp;·&nbsp; [`@dixit-shubham-ct`](https://github.com/dixit-shubham-ct) &nbsp;·&nbsp; <a href="mailto:buildwithshubham.dixit@gmail.com">`email`</a>
 
@@ -15,9 +15,9 @@ Built quietly. Shipped fast. Priced for the rupee.
 
 ### `// 01 / currently shipping`
 
-#### [`sypher.in`](https://sypher.in) — toolbelt for creators
+#### [`sypher.in`](https://sypher.in) — small tools, decoded
 
-A growing factory of small, sharp tools that decode what's working in your niche and turn it into your next post. Built for the Indian creator economy.
+A growing library of small SaaS tools — each focused on one specific job. Reels today, trading data tomorrow, something else next month.
 
 - **Tool 01: Reel Hooks** — track 2 Instagram creators, get the top 10 reels with transcripts, hook breakdowns, and three reel concepts in your voice. **₹99/mo. Launching this month.**
 - Front-door repo: [`sypher-shell`](https://github.com/TheBharathProject/sypher-shell)
@@ -50,7 +50,7 @@ A puzzle game where you merge numbered blocks, climb leaderboards, unlock levels
 
 > **i.** Small tools. Sharp blades.
 >
-> **ii.** Rupee first. Dollar later.
+> **ii.** Different niches. Same shape.
 >
 > **iii.** Ship → soak → simplify.
 
@@ -58,8 +58,6 @@ A puzzle game where you merge numbered blocks, climb leaderboards, unlock levels
 
 ### `// 05 / maker`
 
-**Shubham Dixit** &nbsp; — &nbsp; solo founder, builds quietly, ships often.
-
-Mumbai &nbsp; → &nbsp; world.
+**Shubham Dixit** &nbsp; — &nbsp; solo builder, ships across niches, prefers the working version over the perfect one.
 
 <sub><i>// transmission ends · v0.1.0</i></sub>
